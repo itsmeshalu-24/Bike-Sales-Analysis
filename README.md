@@ -100,11 +100,7 @@ You can download the dataset used in this project from the following source:
 
 ---
 
-## 📷 Dashboard Snapshot
 
-![Bike Sales Dashboard](./Bike%20Sales%20Analysis.png)
-
----
 
 ## 📌 Use Case
 
